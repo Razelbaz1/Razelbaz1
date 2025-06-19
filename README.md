@@ -41,7 +41,7 @@ Mined vehicle listings to build a real-time price prediction model using Elastic
 
 ### 🤝 Let's Connect  
 📫 [Email](mailto:razelbaz1@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/razelbaz)
+💼 [LinkedIn](http://www.linkedin.com/in/raz-elbaz-92a0b7261)
 
 ---
 
